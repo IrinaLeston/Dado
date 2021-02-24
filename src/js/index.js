@@ -1,4 +1,4 @@
-function  RandomNumber(){
+function RandomNumber(){
   let number = Math.ceil(Math.random() * 6);
   let dice = document.getElementById("dice");
   dice.textContent = `${number}`;
