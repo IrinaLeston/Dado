@@ -3,6 +3,10 @@
   height: 100px;
   margin: auto;
   border: 1px solid rgb(236, 146, 146);
+  background: rgb(92, 183, 153);
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
 
 #container {
